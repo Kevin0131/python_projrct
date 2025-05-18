@@ -1,2 +1,2 @@
-# python_projrct
-there are three models in here.
+# python_project
+there are three models in this directory.
